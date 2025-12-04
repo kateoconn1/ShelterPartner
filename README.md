@@ -67,12 +67,12 @@ Contributors who make 60 approved pull requests or more per year will be given a
     </tr>
         <tr>
       <td>
-        <a href="https://github.com/rhjones777">
-          <img src="https://avatars.githubusercontent.com/u/173035257?v=4?s=100" width="100" height="100" alt="rhjones777's avatar"/>
+        <a href="https://github.com/apps/copilot-swe-agent">
+          <img src="https://avatars.githubusercontent.com/in/1143301?v=4?s=100" width="100" height="100" alt="Copilot's avatar"/>
         </a>
       </td>
-      <td><a href="https://github.com/rhjones777"><strong>rhjones777</strong></a></td>
-      <td><strong>11 contributions</strong></td>
+      <td><a href="https://github.com/apps/copilot-swe-agent"><strong>Copilot</strong></a></td>
+      <td><strong>36 contributions</strong></td>
       <td>Gather Account</td>
     </tr>
         <tr>
@@ -82,8 +82,48 @@ Contributors who make 60 approved pull requests or more per year will be given a
         </a>
       </td>
       <td><a href="https://github.com/jacobthejones"><strong>jacobthejones</strong></a></td>
+      <td><strong>15 contributions</strong></td>
+      <td>None</td>
+    </tr>
+        <tr>
+      <td>
+        <a href="https://github.com/shivam-1810">
+          <img src="https://avatars.githubusercontent.com/u/172108163?v=4?s=100" width="100" height="100" alt="shivam-1810's avatar"/>
+        </a>
+      </td>
+      <td><a href="https://github.com/shivam-1810"><strong>shivam-1810</strong></a></td>
+      <td><strong>13 contributions</strong></td>
+      <td>None</td>
+    </tr>
+        <tr>
+      <td>
+        <a href="https://github.com/rhjones777">
+          <img src="https://avatars.githubusercontent.com/u/173035257?v=4?s=100" width="100" height="100" alt="rhjones777's avatar"/>
+        </a>
+      </td>
+      <td><a href="https://github.com/rhjones777"><strong>rhjones777</strong></a></td>
+      <td><strong>0 contributions</strong></td>
+      <td>None</td>
+    </tr>
+        <tr>
+      <td>
+        <a href="https://github.com/Ani-4x">
+          <img src="https://avatars.githubusercontent.com/u/174266491?v=4?s=100" width="100" height="100" alt="Ani-4x's avatar"/>
+        </a>
+      </td>
+      <td><a href="https://github.com/Ani-4x"><strong>Ani-4x</strong></a></td>
+      <td><strong>3 contributions</strong></td>
+      <td>None</td>
+    </tr>
+        <tr>
+      <td>
+        <a href="https://github.com/vedantvijay">
+          <img src="https://avatars.githubusercontent.com/u/59541263?v=4?s=100" width="100" height="100" alt="vedantvijay's avatar"/>
+        </a>
+      </td>
+      <td><a href="https://github.com/vedantvijay"><strong>vedantvijay</strong></a></td>
       <td><strong>2 contributions</strong></td>
-      <td>Gather Account</td>
+      <td>None</td>
     </tr>
         <tr>
       <td>
@@ -92,8 +132,38 @@ Contributors who make 60 approved pull requests or more per year will be given a
         </a>
       </td>
       <td><a href="https://github.com/kateoconn1"><strong>kateoconn1</strong></a></td>
+      <td><strong>0 contributions</strong></td>
+      <td>None</td>
+    </tr>
+        <tr>
+      <td>
+        <a href="https://github.com/sehajbansal">
+          <img src="https://avatars.githubusercontent.com/u/185915577?v=4?s=100" width="100" height="100" alt="sehajbansal's avatar"/>
+        </a>
+      </td>
+      <td><a href="https://github.com/sehajbansal"><strong>sehajbansal</strong></a></td>
       <td><strong>2 contributions</strong></td>
-      <td>Gather Account</td>
+      <td>None</td>
+    </tr>
+        <tr>
+      <td>
+        <a href="https://github.com/ayush-343">
+          <img src="https://avatars.githubusercontent.com/u/137323221?v=4?s=100" width="100" height="100" alt="ayush-343's avatar"/>
+        </a>
+      </td>
+      <td><a href="https://github.com/ayush-343"><strong>ayush-343</strong></a></td>
+      <td><strong>1 contributions</strong></td>
+      <td>None</td>
+    </tr>
+        <tr>
+      <td>
+        <a href="https://github.com/ianfife">
+          <img src="https://avatars.githubusercontent.com/u/50230324?v=4?s=100" width="100" height="100" alt="ianfife's avatar"/>
+        </a>
+      </td>
+      <td><a href="https://github.com/ianfife"><strong>ianfife</strong></a></td>
+      <td><strong>1 contributions</strong></td>
+      <td>None</td>
     </tr>
   </tbody>
 </table>
